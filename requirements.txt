@@ -1,2 +1,5 @@
+Pyarrow
+pandas
+wordcloud
 pycurl
 certifi
